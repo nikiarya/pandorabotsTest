@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category> 
+        <pattern> * London * </pattern>
+        <template> <star index="2"/> </template>
+    </category>
+    
+    <category> 
+        <pattern> WHAT IS YOUR NAME </pattern>
+        <template> My name is tutorial </template>
+    </category>    
+    
+    <category> 
+        <pattern> WHAT IS AIML </pattern>
+        <template> Artifical Intelligence Modelling Language </template>
+    </category>
+
+</aiml>
